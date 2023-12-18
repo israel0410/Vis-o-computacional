@@ -2,6 +2,7 @@
 #arquivo txt para corte de peças#
 import cv2
 import numpy as np
+
 imagemcaixa= "CaixaC513.jpg"
 
 image =cv2.imread(imagemcaixa)
