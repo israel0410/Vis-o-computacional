@@ -27,7 +27,7 @@ Enquanto as estratégias anteriores utilizam uma rede neural projetada para clas
 
 ![image](https://github.com/israel0410/Vis-o-computacional/assets/69548438/a083aa5f-40ae-42c4-ad9f-00996fbb5d83)
 
-### Resulatados
+### Resultado 
 Para classificação de imagens foi utilizado o software VSCODE fermenta open cv para realizar corte e marcação, através deste é possível localizar e delimitar objetos na imagem a fim de gerar o data set requerido para o treinamento da rede. Open Cv é uma ferramenta interativa de anotação de vídeo e imagem para visão computacional. É usado por dezenas de milhares de usuários e empresas em todo o mundo.
 
 ![image](https://github.com/israel0410/Vis-o-computacional/assets/69548438/e7a3c2c1-5945-4c8a-a5fb-8cdadd1dd491)
