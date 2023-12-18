@@ -1,4 +1,4 @@
-# Seleção Automatica de peças
+# Seleção Automatica de Peças
 
 Com a introdução da automação em variados setores das industrias, a inspeção e seleção de componentes físicos, muitas das vezes, ficam a cargo de processos manuais. Existem vários métodos e técnicas de inspeção, tais como método pulso-eco, método por transparência, método por ressonância, técnica por contato, técnica por imersão, inspeção manual e inspeção automática
 
@@ -27,7 +27,8 @@ Enquanto as estratégias anteriores utilizam uma rede neural projetada para clas
 
 ![image](https://github.com/israel0410/Vis-o-computacional/assets/69548438/a083aa5f-40ae-42c4-ad9f-00996fbb5d83)
 
-### resulatados
+### R
+esulatados
 Para classificação de imagens foi utilizado o software VSCODE fermenta open cv para realizar corte e marcação, através deste é possível localizar e delimitar objetos na imagem a fim de gerar o data set requerido para o treinamento da rede. Open Cv é uma ferramenta interativa de anotação de vídeo e imagem para visão computacional. É usado por dezenas de milhares de usuários e empresas em todo o mundo.
 
 ![image](https://github.com/israel0410/Vis-o-computacional/assets/69548438/e7a3c2c1-5945-4c8a-a5fb-8cdadd1dd491)
